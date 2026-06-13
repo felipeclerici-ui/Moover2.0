@@ -1,0 +1,17 @@
+{
+  "name": "GanadoGo",
+  "short_name": "GanadoGo",
+  "description": "Logística ganadera inteligente para Uruguay",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c1917",
+  "theme_color": "#047857",
+  "lang": "es-UY",
+  "categories": ["business", "productivity", "travel"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
